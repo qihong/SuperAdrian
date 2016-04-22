@@ -342,6 +342,23 @@
 </item>
 
 <item>
+<title>ESPN BRASIL</title>
+<link>$doregex[url]|User-Agent=iPhone</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[file.*?[",'](.*?)[",']\W]]></expres>
+<ignorecache>1</ignorecache>
+<page>http://pxstream.tv/embed.php?file=c7a84573f450aba4b-slv10vbn&referrer=http://ekostreams.co/ch/espnbrasil.php</page>
+<referer>http://ekostreams.co/ch/espnbrasil.php</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+<accept>*/*</accept>
+</includeheaders>
+</regex>
+<thumbnail>http://vertv.net/wp-content/uploads/2016/01/AQ.jpg</thumbnail>
+</item>
+
+<item>
 <title>EUROSPORT DE</title>
 <link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/1155.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.wuv.de/var/wuv/storage/images/media/bilder/eurosport_2015_580/7186502-1-ger-DE/eurosport_2015_580_evo_580.jpg</thumbnail>
@@ -361,31 +378,31 @@
 
 <item>
 <title>FOX SPORTS 1 NL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/270.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://premium-service.club:9300/live/latif/latif/830.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 2 NL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/443.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://premium-service.club:9300/live/latif/latif/831.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 3 NL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/444.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://premium-service.club:9300/live/latif/latif/832.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 4 NL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/445.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://premium-service.club:9300/live/latif/latif/833.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 5 NL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/446.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://premium-service.club:9300/live/latif/latif/834.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
@@ -806,7 +823,13 @@
 
 <item>
 <title>USA NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/38ad309c19cc/428.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/428.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://tvseriesfinale.com/wp-content/uploads/2014/08/usa04.jpg</thumbnail>
+</item>
+
+<item>
+<title>USA NETWORK BACKUP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tinyurl.com/z32ztg7&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://tvseriesfinale.com/wp-content/uploads/2014/08/usa04.jpg</thumbnail>
 </item>
 
@@ -818,6 +841,6 @@
 
 <item>
 <title>WWE NETWORK BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/38ad309c19cc/79.mpegts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/79.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.imgur.com/Ug9xGzp.png</thumbnail>
 </item>
