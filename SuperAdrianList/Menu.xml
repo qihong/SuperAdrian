@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[B]=== [COLOR magenta]NBC LI[/COLOR][COLOR cyan]VE EXTRA[/COLOR] ===[/B]</title>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/ProjectAdrian/SuperAdrian/master/SuperAdrianList/NBCExtra.xml</externallink>
-</item>
-
-<item>
-<title>[B]=== [COLOR magenta]STADIUM[/COLOR][COLOR cyan] EXTRA[/COLOR] ===[/B]</title>
-<thumbnail>http://bit.ly/1qumZV3</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/ProjectAdrian/SuperAdrian/master/SuperAdrianList/StadiumExtra.xml</externallink>
-</item>
-
-<item>
 <title>[B]=== [COLOR magenta]INDONESIA[/COLOR][COLOR cyan] CHANNELS[/COLOR] ===[/B]</title>
 <thumbnail>http://img.freeflagicons.com/thumb/flag_background/indonesia/indonesia_640.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
@@ -53,7 +37,7 @@
 <thumbnail>http://previews.123rf.com/images/duug/duug1206/duug120600003/13966994-sport-logo-Stock-Vector-sports.jpg</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/ProjectAdrian/SuperAdrian/master/SuperAdrianList/SportsV1.xml</externallink>
+<externallink>https://raw.githubusercontent.com/ProjectAdrian/SuperAdrian/master/SuperAdrianList/SportsV3.xml</externallink>
 </item>
 
 <item>
