@@ -115,18 +115,6 @@
 </item>
 
 <item>
-<title>HAARI TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/more2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v4/mobile/channels/wms-auth?</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_haaritv_zpslftcnreb.png</thumbnail>
-</item>
-
-<item>
 <title>HOT HITS</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/hothits_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
@@ -406,7 +394,7 @@
 </item>
 
 <item>
-<title>TVRI 1</title>
+<title>TVRI NASIONAL</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvrinasional_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -418,7 +406,7 @@
 </item>
 
 <item>
-<title>TVRI 2</title>
+<title>TVRI JAKARTA</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvrijakarta_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -430,7 +418,7 @@
 </item>
 
 <item>
-<title>TVRI 3</title>
+<title>TVRI BUDAYA</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvribudaya_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
@@ -442,7 +430,7 @@
 </item>
 
 <item>
-<title>TVRI 4</title>
+<title>TVRI OLAHRAGA</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/tvriolahraga_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
 <name>tok</name>
