@@ -397,31 +397,31 @@
 
 <item>
 <title>FOX SPORTS 1 NL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/latif/latif/830.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/test1/test1/830.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 2 NL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/latif/latif/831.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/test1/test1/831.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 3 NL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/latif/latif/832.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/test1/test1/832.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 4 NL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/latif/latif/833.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/test1/test1/833.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <item>
 <title>FOX SPORTS 5 NL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/latif/latif/834.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/test1/test1/834.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
@@ -435,6 +435,12 @@
 <title>FOX SPORTS 2 USA</title>
 <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/saban/saban/4585.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_us_2.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS DEPORTES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/foxdeportes&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.lamac.org/res/channels/logos/_0032_fox_sports.png</thumbnail>
 </item>
 
 <title>FOX SPORTS 2 USA</title>
@@ -486,7 +492,7 @@
 
 <item>
 <title>NBCSN BACKUP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/saban/saban/4587.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.do/nbcsnhd&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
 </item>
 
@@ -503,23 +509,34 @@
 </item>
 
 <item>
-<title>OTE SPORT 1</title>
+<title>OTE SPORT 1 GR</title>
 <link>plugin://plugin.video.f4mTester/?url=http://62.210.251.32:88/live/izu/izu/688.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.gazzetta.gr/sites/default/files/sitefiles_2014-09/ote_logo_sport_cmyk.jpg</thumbnail>
 </item>
 
 <item>
-<title>OTE SPORT 2</title>
+<title>OTE SPORT 2 GR</title>
 <link>plugin://plugin.video.f4mTester/?url=http://62.210.251.32:88/live/izu/izu/687.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.gazzetta.gr/sites/default/files/sitefiles_2014-09/ote_logo_sport_cmyk.jpg</thumbnail>
 </item>
 
 <item>
-<title>OTE SPORT 3</title>
+<title>OTE SPORT 3 GR</title>
 <link>plugin://plugin.video.f4mTester/?url=http://62.210.251.32:88/live/izu/izu/686.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.gazzetta.gr/sites/default/files/sitefiles_2014-09/ote_logo_sport_cmyk.jpg</thumbnail>
 </item>
 
+<item>
+<title>PREMIUM SPORT 1 IT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/107.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.mediasetpremium.it/bin/0.$plit/C_54_articolo_3869_imgarticolo.jpg</thumbnail>
+</item>
+
+<item>
+<title>PREMIUM SPORT 2 IT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/571.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.mediasetpremium.it/bin/0.$plit/C_54_articolo_3869_imgarticolo.jpg</thumbnail>
+</item>
 
 <title>SKYNET SPORTS HD </title>
 <link>http://216.185.103.158:1935/live2/chSport1hd/playlist.m3u8</link>
@@ -581,13 +598,13 @@
 </item>
 
 <item>
-<title>SKY SPORTS BOX OFFICE PPV</title>
+<title>SKY SPORTS BOX OFFICE PPV UK</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/446.mpegts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://my.sky.com/orderboxoffice/images/sky-sports-box-office-logo.png</thumbnail>
 </item>
 
 <item>
-<title>SKY SPORTS BOX OFFICE PPV BACKUP</title>
+<title>SKY SPORTS BOX OFFICE PPV BACKUP UK</title>
 <link>plugin://plugin.video.f4mTester/?url=http://stream.does-it.net:8000/live/dom/dom/1129.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://my.sky.com/orderboxoffice/images/sky-sports-box-office-logo.png</thumbnail>
 </item>
@@ -595,73 +612,73 @@
 <item>
 <title>SKY SPORTS 1 UK</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/24.mpegts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 1 UK BACKUP</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/735.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 2 UK</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/25.mpegts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 2 UK BACKUP</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/736.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 3 UK</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/26.mpegts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 3 UK BACKUP</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/737.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 4 UK</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/27.mpegts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 4 UK BACKUP</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/738.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 5 UK</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/28.mpegts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS 5 UK BACKUP</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/739.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS F1 UK</title>
 <link>plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/2e848b643e0e/64.mpegts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS F1 UK BACKUP</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/marksat380/mQS7OiuFY9/1206.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
@@ -752,25 +769,25 @@
 
 <item>
 <title>SUPERSPORT 1 AL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/latif/latif/618.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/test1/test1/618.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://yt3.ggpht.com/-kF7ryGR3hHU/AAAAAAAAAAI/AAAAAAAAAAA/DNb2_uQh5ik/s512-c-k-no/photo.jpg</thumbnail>
 </item>
 
 <item>
 <title>SUPERSPORT 2 AL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/latif/latif/619.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/test1/test1/619.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://yt3.ggpht.com/-kF7ryGR3hHU/AAAAAAAAAAI/AAAAAAAAAAA/DNb2_uQh5ik/s512-c-k-no/photo.jpg</thumbnail>
 </item>
 
 <item>
 <title>SUPERSPORT 3 AL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/latif/latif/620.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/test1/test1/620.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://yt3.ggpht.com/-kF7ryGR3hHU/AAAAAAAAAAI/AAAAAAAAAAA/DNb2_uQh5ik/s512-c-k-no/photo.jpg</thumbnail>
 </item>
 
 <item>
 <title>SUPERSPORT 4 AL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/latif/latif/621.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://maxtvv.abdou123.com:9300/live/test1/test1/621.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://yt3.ggpht.com/-kF7ryGR3hHU/AAAAAAAAAAI/AAAAAAAAAAA/DNb2_uQh5ik/s512-c-k-no/photo.jpg</thumbnail>
 </item>
 
