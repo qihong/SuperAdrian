@@ -29,3 +29,9 @@
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?url=sss&amp;mode=56&amp;name=Sport365.live</jsonrpc>
 <thumbnail>http://www.schooljotter.com/imagefolders/jump/Color_20Football_20Logo_20Crop.jpg</thumbnail>
 </item>
+
+<plugin>
+<name>[COLOR red]Sport365 (ZemTV.com addon required)[/COLOR]</name>
+<link>plugin://plugin.video.ZemTV-shani/?mode=56&name=Sport365.live&url=sss</link>
+<thumbnail>http://phoenixtv.offshorepastebin.com/art/tv/tmp1.jpg</thumbnail>
+</plugin>
