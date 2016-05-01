@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>Swansea City vs Liverpool</title>
+<title>[COLOR blue]SOUTHAMPTON VS MAN CITY 720 HD [/COLOR]</title>
 <link>
-<sublink>http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/swanseacity/as/live/swanseacity_hd_1200.f4m?nltid=plp&nltdt=6&nltnt=1&h=3f5acfdeb83df6418b09361637095754.1462098888|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</sublink>
-<sublink>http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/swanseacity/as/live/swanseacity_hd_800.f4m?nltid=plp&nltdt=6&nltnt=1&h=3f5acfdeb83df6418b09361637095754.1462098888|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</sublink>
+sublink:LISTNAME:[COLOR yellow]Stream 1[/COLOR] - [COLOR blue]HD[/COLOR] ::LISTSOURCE:https://video06-lax.streamup.com/app/zonaxpsot2s-stream_aac/playlist.m3u8 ::--#
+sublink:LISTNAME:[COLOR yellow]Stream 2[/COLOR] - [COLOR blue]HD[/COLOR] ::LISTSOURCE:https://video06-lax.streamup.com/app/zonaxpsot2s-stream_aac/playlist.m3u8 ::--#
+sublink:LISTNAME:[COLOR yellow] Stream 3[/COLOR] - [COLOR blue]SD[/COLOR] ::LISTSOURCE:rtmp://178.162.199.137/stream/ZonaSportsx10?id=1689&pk=df2b2cd5475aa26bd080b11b81dba538c025e9a35c17b4475408d1f99524a697 ::--#
 </link>
-<thumbnail>http://s20.postimg.org/9h2qqkysd/Football_Icon.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FF00B7EB][B] KO: 12:15 AM  Swansea City VS Liverpool[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/swanseacity/as/live/swanseacity_hd_4500.f4m?nltid=plp&amp;nltdt=6&amp;nltnt=1&amp;h=f12b72954168ffc0a32ea1ad76d0ce4f.1462100383|User-Agent=AppleCoreMedia/1.0.0.12B440 (iPad; U; CPU OS 8_1_2 like Mac OS X; en_gb)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/swanseacity/as/live/swanseacity_hd_3000.f4m?nltid=plp&amp;nltdt=6&amp;nltnt=1&amp;h=f12b72954168ffc0a32ea1ad76d0ce4f.1462100383|User-Agent=AppleCoreMedia/1.0.0.12B440 (iPad; U; CPU OS 8_1_2 like Mac OS X; en_gb)</link>
-<link>plugin://plugin.video.f4mTester/?url=http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/swanseacity/as/live/swanseacity_hd_1600.f4m?nltid=plp&amp;nltdt=6&amp;nltnt=1&amp;h=f12b72954168ffc0a32ea1ad76d0ce4f.1462100383|User-Agent=AppleCoreMedia/1.0.0.12B440 (iPad; U; CPU OS 8_1_2 like Mac OS X; en_gb)</link>
-<thumbnail>https://i.imgur.com/01Ve7Zm.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 
