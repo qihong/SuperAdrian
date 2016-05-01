@@ -30,8 +30,3 @@
 <thumbnail>https://raw.githubusercontent.com/ProjectAdrian/SuperAdrian/master/Icons/LIVE.png</thumbnail>
 </item>
 
-<plugin>
-<name>[COLOR red]Sport365 (ZemTV.com addon required)[/COLOR]</name>
-<link>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</link>
-<thumbnail>http://phoenixtv.offshorepastebin.com/art/tv/tmp1.jpg</thumbnail>
-</plugin>
