@@ -10,6 +10,12 @@
 </item>
 
 <item>
+<title>2Swansea City vs Liverpool 2</title>
+<link>http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/swanseacity/as/live/swanseacity_hd_1200.f4m?nltid=plp&nltdt=6&nltnt=1&h=3f5acfdeb83df6418b09361637095754.1462098888|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://s20.postimg.org/9h2qqkysd/Football_Icon.png</thumbnail>
+</item>
+
+<item>
 <title>CTH STADIUM 1</title>
 <link>$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
 <regex>
