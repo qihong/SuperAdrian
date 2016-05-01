@@ -5,7 +5,7 @@
 <link>
 sublink:LISTNAME:[COLOR yellow]Stream 1[/COLOR] - [COLOR blue]HD[/COLOR] ::LISTSOURCE:https://video06-lax.streamup.com/app/zonaxpsot2s-stream_aac/playlist.m3u8 ::--#
 sublink:LISTNAME:[COLOR yellow]Stream 2[/COLOR] - [COLOR blue]HD[/COLOR] ::LISTSOURCE:https://video06-lax.streamup.com/app/zonaxpsot2s-stream_aac/playlist.m3u8 ::--#
-sublink:LISTNAME:[COLOR yellow] Stream 3[/COLOR] - [COLOR blue]SD[/COLOR] ::LISTSOURCE:rtmp://178.162.199.137/stream/ZonaSportsx10?id=1689&pk=df2b2cd5475aa26bd080b11b81dba538c025e9a35c17b4475408d1f99524a697 ::--#
+sublink:LISTNAME:[COLOR yellow] Stream 3[/COLOR] - [COLOR blue]SD[/COLOR] ::LISTSOURCE:plugin://plugin.video.f4mTester/?url=http://italians-server.tv:8000/live/alesandro/alesandro/9024.ts&amp;streamtype=TSDOWNLOADER ::--#
 </link>
 <thumbnail></thumbnail>
 </item>
