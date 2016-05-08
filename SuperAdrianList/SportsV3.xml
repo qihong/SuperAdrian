@@ -52,11 +52,11 @@
 <thumbnail>http://st1.bgr.in/wp-content/uploads/2015/10/letv-logo.jpg</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
-<externallink>plugin://plugin.video.ZemTV-shani/?mode=56&name=Sport365.live&url=sss</externallink>
+<plugin>plugin://plugin.video.ZemTV-shani/?mode=56&name=Sport365.live&url=sss</plugin>
 </item>
 
 <item>
 <title>[COLOR red]Sport365 (ZemTV.com addon required)[/COLOR]</title>
-<externallink>plugin://plugin.video.ZemTV-shani/?mode=56&name=Sport365.live&url=sss</externallink>
+<link>plugin://plugin.video.ZemTV-shani/?mode=56&name=Sport365.live&url=sss</link>
 <thumbnail>http://phoenixtv.offshorepastebin.com/art/tv/tmp1.jpg</thumbnail>
 </item>
