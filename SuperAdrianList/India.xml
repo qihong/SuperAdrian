@@ -20,19 +20,19 @@
 
 <item>
 <title>ZEE BOLLYWOOD</title>
-<link>http://zeefamily-i.akamaihd.net/hls/live/227854/zeebollywood72839923765/playlist.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sami4/sami4/3897.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://res.cloudinary.com/idiso/image/upload/q_70/v1411274844/jtnweomk62fk66zo8pun.png</thumbnail>
 </item>
 
 <item>
 <title>ZEE CINEMA</title>
-<link>http://stream.zliving.online/zeecinema_domain_tracking/index.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sami4/sami4/3886.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://res.cloudinary.com/idiso/image/upload/q_70/v1411274605/vg3cqxanzjoysl2h55bp.png</thumbnail>
 </item>
 
 <item>
 <title>ZEE CLASSIC</title>
-<link>http://zeefamily2-i.akamaihd.net/hls/live/231616/zeeclassicts/playlist.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sami4/sami4/3885.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://res.cloudinary.com/idiso/image/upload/q_70/v1411275054/hwgpxoyesnp5bzzgfghf.png</thumbnail>
 </item>
 
@@ -44,18 +44,18 @@
 
 <item>
 <title>ZEE TAMIL</title>
-<link>http://zeefamily-i.akamaihd.net/hls/live/227854/zeetamilts/playlist.m3u8</link>
+<link>http://play-fs.amgiptv.com/vxtvzeetamil/zeetamil.stream/playlist.m3u8</link>
 <thumbnail>http://res.cloudinary.com/idiso/image/upload/q_70/h_250/v1411274902/w1moztoevewk6d6qyycm.png</thumbnail>
 </item>
 
 <item>
 <title>ZEE TV</title>
-<link>http://zeefamily-i.akamaihd.net/hls/live/227854/zeetvhdus2243/playlist.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sami4/sami4/1743.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://res.cloudinary.com/idiso/image/upload/q_70/v1448492098/ydqgeqtcxyylxhjlk2hs.png</thumbnail>
 </item>
 
 <item>
 <title>ZEE SMILE</title>
-<link>http://zeefamily-i.akamaihd.net/hls/live/227854/zeesmile/chunklist.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sami4/sami4/1741.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://res.cloudinary.com/idiso/image/upload/q_70/v1411274763/ei39fgx52yapsaq9siwj.png</thumbnail>
 </item>
