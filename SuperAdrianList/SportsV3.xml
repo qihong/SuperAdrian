@@ -1,4 +1,12 @@
 <item>
+<title>[B]=== [COLOR magenta]LIVE[/COLOR][COLOR cyan] BPL[/COLOR] ===[/B]</title>
+<thumbnail>http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/images/tv-images/2014/11/12/Barclays%20LOgo%20copy.jpg</thumbnail>
+<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/ProjectAdrian/Adrian_Sports/master/List/LiveBPL</externallink>
+</item>
+
+<item>
 <title>[B]=== [COLOR magenta]NBC LI[/COLOR][COLOR cyan]VE EXTRA[/COLOR] ===[/B]</title>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/08/nbc-sports-live-extra.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
@@ -28,5 +36,13 @@
 <premium>True</premium>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?url=sss&amp;mode=56&amp;name=Sport365.live</jsonrpc>
 <thumbnail>https://raw.githubusercontent.com/ProjectAdrian/SuperAdrian/master/Icons/LIVE.png</thumbnail>
+</item>
+
+<item>
+<title>[B]=== [COLOR magenta]LETV[/COLOR][COLOR cyan] SPORTS[/COLOR] ===[/B]</title>
+<thumbnail>http://st1.bgr.in/wp-content/uploads/2015/10/letv-logo.jpg</thumbnail>
+<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/ProjectAdrian/SuperAdrian/master/SuperAdrianList/LETV.xml</externallink>
 </item>
 
