@@ -48,9 +48,9 @@
 
 
 <item>
-<title>TEST</title>
+<title>TEST1</title>
 <thumbnail>http://st1.bgr.in/wp-content/uploads/2015/10/letv-logo.jpg</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
-<plugin>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</plugin>
+<externallink>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</externallink>
 </item>
