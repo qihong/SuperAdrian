@@ -50,7 +50,7 @@
 <title>[B]=== [COLOR magenta]TEST[/COLOR][COLOR cyan][/COLOR] ===[/B]</title>
 <link>ignorme</link>
 <premium>True</premium>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=http://bit.do/adrianmivo&amp;mode=7</jsonrpc>
+<jsonrpc>plugin://plugin.video.live.streamspro/?url=http://bit.do/adrianmivo&amp;mode=7</jsonrpc>
 <thumbnail>https://raw.githubusercontent.com/ProjectAdrian/SuperAdrian/master/Icons/LIVE.png</thumbnail>
 </item>
 
