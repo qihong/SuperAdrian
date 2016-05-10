@@ -47,7 +47,7 @@
 </item>
 
 <item>
-<title>[B]=== [COLOR magenta]TEST[/COLOR][COLOR cyan][/COLOR] ===[/B]</title>
+<title>[B]=== [COLOR magenta]TEST1[/COLOR][COLOR cyan][/COLOR] ===[/B]</title>
 <link>ignorme</link>
 <premium>True</premium>
 <jsonrpc>plugin://plugin.video.live.streamspro/?url=http://bit.do/adrianmivo&amp;mode=13</jsonrpc>
