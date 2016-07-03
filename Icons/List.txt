@@ -1,0 +1,3 @@
+Astro Euro,p2p://96.44.141.58:6038/57555ed10006302a5855e49447825b07.ts#p2p://96.44.141.58:6038/57526adc0005b5224ccd529522ec4455.ts
+Skynet_sports1_HD,p2p://60.249.213.25:9900/562a3e84000b962c30a75ee14190079a.ts
+TV1,http://rtm-live.glueapi.io/smil:rtm-ch001.smil/playlist.m3u8
