@@ -57,7 +57,7 @@ MOTOGP LIVE,http://paris.dornastream.com/Live/mystream/index.m3u8
 SPORTSNET WORLD,http://nlds182.cdnak.neulion.com/nlds/sportsnetnow/sn_world/as/live/sn_world_hd_3000.m3u8
 BEIN MAX 1,http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/284.ts
 BEIN MAX 2,http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/285.ts
-
+MOTORVISION,http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/247.ts
 HBO HD,p2p://122.114.113.182:9999/575972830005ab2c5d88c3bd3eb51bda#p2p://122.114.113.182:9999/4ca8a1a305db75a34d7333a0fe6e8358#p2p://122.114.113.182:9999/56fa40d5000472e500f7c9471a57f4e4#p2p://122.114.113.182:9999/56f8bcb50000245f2cc68f4016b42fed#p2p://122.114.113.182:9999/4ca8a1a305db75a34d7333a0fe6e8358#p2p://122.114.113.182:9999/56f8bcb50000245f2cc68f4016b42fed
 FOX MOVIES FAMILY,p2p://122.114.113.182:9999/56f8bcfb000364772cc7a1881fbc40fb#p2p://96.44.141.58:6038/56f8bc81000f09312cc5c7ec7831629#p2p://106.186.121.94:8260/560787430000be3b5852f86213f23709
 f.ts#p2p://106.186.121.94:8260/560787430000be3b5852f86213f23709#p2p://122.114.113.182:9999/56f8bcfb000364772cc7a1881fbc40fb
