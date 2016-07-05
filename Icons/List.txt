@@ -62,7 +62,7 @@ FOX MOVIES FAMILY,p2p://96.44.141.58:6038/573c270a000f06d40026215656a354fb.ts#p2
 f.ts#p2p://106.186.121.94:8260/560787430000be3b5852f86213f23709#p2p://122.114.113.182:9999/56f8bcfb000364772cc7a1881fbc40fb
 FOX PREMIUM MOVIES,p2p://122.114.113.182:9999/56f8bc81000f09312cc5c7ec7831629f
 TEST,rtmp://103.49.105.78/RTMPChannel<playpath>1473799202546e3768809a5/1/1/high <swfUrl>http://ply001.3d.ibolztv.net/player/flash/id/iBolz-2.1.5.swf <pageUrl>http://ply001.3d.ibolztv.net/player/flash/id/id.2.1.5.php?w=100%&h=100%&apps_id=com.balepoint.ibolz.id.prod&type=channel&vid=1473799202546e3768809a5&channel_id=1473799202546e3768809a5&customer_id=-2
-
+TEST2http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/284.ts
 
  
 
