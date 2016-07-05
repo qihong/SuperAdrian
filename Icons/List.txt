@@ -55,14 +55,14 @@ SKYNET SPORTS 5,p2p://60.249.213.25:9900/562a48fc0005d2a530d0421e1e1502d5.ts#p2p
 SKYNET SPORTS 6,p2p://60.249.213.25:9900/562a4915000497e730d0a37f6ff0254f.ts#p2p://106.186.121.94:8258/562ad0dc000a6b76e2298e1032c2455b.ts
 MOTOGP LIVE,http://paris.dornastream.com/Live/mystream/index.m3u8
 SPORTSNET WORLD,http://nlds182.cdnak.neulion.com/nlds/sportsnetnow/sn_world/as/live/sn_world_hd_3000.m3u8
-NBCSN,http://54.177.79.231/server/play/nbcsnxctg/2626000/prog.m3u8
+
 
 HBO HD,p2p://122.114.113.182:9999/575972830005ab2c5d88c3bd3eb51bda#p2p://122.114.113.182:9999/4ca8a1a305db75a34d7333a0fe6e8358#p2p://122.114.113.182:9999/56fa40d5000472e500f7c9471a57f4e4#p2p://122.114.113.182:9999/56f8bcb50000245f2cc68f4016b42fed#p2p://122.114.113.182:9999/4ca8a1a305db75a34d7333a0fe6e8358#p2p://122.114.113.182:9999/56f8bcb50000245f2cc68f4016b42fed
 FOX MOVIES FAMILY,p2p://96.44.141.58:6038/573c270a000f06d40026215656a354fb.ts#p2p://96.44.141.58:6038/56f8bc81000f09312cc5c7ec7831629
 f.ts#p2p://106.186.121.94:8260/560787430000be3b5852f86213f23709#p2p://122.114.113.182:9999/56f8bcfb000364772cc7a1881fbc40fb
 FOX PREMIUM MOVIES,p2p://122.114.113.182:9999/56f8bc81000f09312cc5c7ec7831629f
 TEST,rtmp://103.49.105.78/RTMPChannel<playpath>1473799202546e3768809a5/1/1/high <swfUrl>http://ply001.3d.ibolztv.net/player/flash/id/iBolz-2.1.5.swf <pageUrl>http://ply001.3d.ibolztv.net/player/flash/id/id.2.1.5.php?w=100%&h=100%&apps_id=com.balepoint.ibolz.id.prod&type=channel&vid=1473799202546e3768809a5&channel_id=1473799202546e3768809a5&customer_id=-2
-TEST2http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/284.ts
+TEST2,http://www.egyiptv.co.uk:8080/live/embratoria.com/3tvvd358cgije790fnErfLlI/284.ts
 
  
 
