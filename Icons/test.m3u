@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0, test 
+https://miotvapp.singtel.com/VideoServer/GetLiveLeafIndex.aspx/5102_720p/playlist.m3u8?token=E&l=5102&v=&m=&p=04
